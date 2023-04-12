@@ -1,5 +1,24 @@
 # FuMDFEND
 
+This project uses the Chinese BERT (BERT-wwm-ext) from Harbin Institute of Technology for BERT pre-training. The GitHub repository of the project can be found at: https://github.com/ymcui/Chinese-BERT-wwm
+
+## Downloading Pre-trained Weights
+
+You can download the BERT pre-trained weights from the following link:
+
+Weight link: [https://drive.google.com/file/d/1iNeYFhCBJWeUsIlnW_2K6SMwXkM4gLb_/view](https://drive.google.com/file/d/1iNeYFhCBJWeUsIlnW_2K6SMwXkM4gLb_/view)
+
+After downloading, please place the BERT pre-trained weights in the `pretrained_model/chinese_roberta_wwm_base_ext_pytorch` directory.
+
+## Contact Information
+
+If you encounter any issues while using this project, please do not hesitate to reach out to me via email.
+
+My email address: [120l030706@stu.hit.edu.cn](mailto:120l030706@stu.hit.edu.cn)
+
+Thank you!
+
+
 本项目使用哈工大Chinese BERT（BERT-wwm-ext）进行BERT预训练。项目的GitHub地址为：https://github.com/ymcui/Chinese-BERT-wwm
 
 ## 下载预训练权重
