@@ -1,8 +1,7 @@
 # FuDFEND
 
-Our paper: [https://doi.org/10.1007/978-3-031-17189-5_4](https://doi.org/10.1007/978-3-031-17189-5_4)
-
 ## In English
+Our paper: [https://doi.org/10.1007/978-3-031-17189-5_4](https://doi.org/10.1007/978-3-031-17189-5_4)
 
 This project uses the Chinese BERT (BERT-wwm-ext) from Harbin Institute of Technology for BERT pre-training. The GitHub repository of the project can be found at: https://github.com/ymcui/Chinese-BERT-wwm
 
