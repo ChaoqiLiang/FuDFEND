@@ -1,4 +1,6 @@
-# FuMDFEND
+# FuDFEND
+
+Our paper: [https://doi.org/10.1007/978-3-031-17189-5_4](https://doi.org/10.1007/978-3-031-17189-5_4)
 
 ## In English
 
@@ -21,6 +23,7 @@ My email address: [120l030706@stu.hit.edu.cn](mailto:120l030706@stu.hit.edu.cn)
 Thank you!
 
 ## 中文介绍
+我们的论文：[https://doi.org/10.1007/978-3-031-17189-5_4](https://doi.org/10.1007/978-3-031-17189-5_4)
 
 本项目使用哈工大Chinese BERT（BERT-wwm-ext）进行BERT预训练。项目的GitHub地址为：https://github.com/ymcui/Chinese-BERT-wwm
 
