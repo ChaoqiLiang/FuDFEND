@@ -1,5 +1,7 @@
 # FuMDFEND
 
+## In English
+
 This project uses the Chinese BERT (BERT-wwm-ext) from Harbin Institute of Technology for BERT pre-training. The GitHub repository of the project can be found at: https://github.com/ymcui/Chinese-BERT-wwm
 
 ## Downloading Pre-trained Weights
@@ -18,6 +20,7 @@ My email address: [120l030706@stu.hit.edu.cn](mailto:120l030706@stu.hit.edu.cn)
 
 Thank you!
 
+## 中文介绍
 
 本项目使用哈工大Chinese BERT（BERT-wwm-ext）进行BERT预训练。项目的GitHub地址为：https://github.com/ymcui/Chinese-BERT-wwm
 
