@@ -13,6 +13,10 @@ Weight link: [https://drive.google.com/file/d/1iNeYFhCBJWeUsIlnW_2K6SMwXkM4gLb_/
 
 After downloading, please place the BERT pre-trained weights in the `pretrained_model/chinese_roberta_wwm_base_ext_pytorch` directory.
 
+## Usage
+
+python run.py
+
 ## Contact Information
 
 If you encounter any issues while using this project, please do not hesitate to reach out to me via email.
@@ -33,6 +37,10 @@ Thank you!
 权重链接：[https://drive.google.com/file/d/1iNeYFhCBJWeUsIlnW_2K6SMwXkM4gLb_/view](https://drive.google.com/file/d/1iNeYFhCBJWeUsIlnW_2K6SMwXkM4gLb_/view)
 
 下载完成后，请将BERT预训练权重放置在`pretrained_model/chinese_roberta_wwm_base_ext_pytorch`目录中。
+
+## 使用方法
+
+python run.py
 
 ## 联系方式
 
