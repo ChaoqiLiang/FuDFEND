@@ -40,7 +40,7 @@ Thank you!
 
 ## 使用方法
 
-python run.py
+`python run.py`
 
 ## 联系方式
 
