@@ -15,7 +15,7 @@ After downloading, please place the BERT pre-trained weights in the `pretrained_
 
 ## Usage
 
-python run.py
+`python run.py`
 
 ## Contact Information
 
